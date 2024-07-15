@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:stonecutting",
+    "category": "misc",
+    "ingredient": {
+      "item": "minecraft:armor_stand"
+    },
+    "result": {
+      "id": "minecraft:armor_stand",
+      "count": 1,
+      "components": {
+        "minecraft:entity_data": {
+          "id": "minecraft:armor_stand",
+          "Small": 0,
+          "ShowArms": 1,
+          "NoBasePlate": 1,
+          "NoGravity": 0
+        },
+        "minecraft:item_name": "{\"fallback\":\"Regular Armor Stand\",\"translate\":\"misc.armor_stand.regular\"}",
+        "minecraft:lore": [
+          "{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"fallback\":\"• Arms: Shown\",\"translate\":\"misc.armor_stand.arms.shown\"}",
+          "{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"fallback\":\"• Baseplate: Hidden\",\"translate\":\"misc.armor_stand.baseplate.hidden\"}",
+          "{\"bold\":false,\"color\":\"gray\",\"italic\":false,\"fallback\":\"• Gravity: Yes\",\"translate\":\"misc.armor_stand.gravity.yes\"}"
+        ]
+      }
+    }
+  }
+  
