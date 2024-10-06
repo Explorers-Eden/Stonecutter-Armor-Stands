@@ -1,9 +1,9 @@
 {
   "type": "minecraft:stonecutting",
   "category": "misc",
-  "ingredient": {
-    "item": "minecraft:armor_stand"
-  },
+  "ingredient": [
+      "minecraft:armor_stand"
+    ],
   "result": {
     "id": "minecraft:armor_stand",
     "count": 1,

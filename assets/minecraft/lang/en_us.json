@@ -1,0 +1,10 @@
+{
+    "misc.armor_stand.regular": "Regular Armor Stand",
+    "misc.armor_stand.small": "Small Armor Stand",
+    "misc.armor_stand.arms.hidden": "• Arms: Hidden",
+    "misc.armor_stand.arms.shown": "• Arms: Shown",
+    "misc.armor_stand.baseplate.hidden": "• Baseplate: Hidden",
+    "misc.armor_stand.baseplate.shown": "• Baseplate: Shown",
+    "misc.armor_stand.gravity.no": "• Gravity: No",
+    "misc.armor_stand.gravity.yes": "• Gravity: Yes"
+}
